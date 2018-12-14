@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">1035130942790</string>
+    <string name="package_name">com.echessbee.hb.paddleball</string>
+    <string name="speed_leaderboard">CgkIxurylJAeEAIQAQ</string>
+    <string name="multiball_leaderboard">CgkIxurylJAeEAIQAg</string>
+    <string name="nightspeed_leaderboard">CgkIxurylJAeEAIQAw</string>
+    <string name="daymultiball_leaderboard">CgkIxurylJAeEAIQBA</string>
+</resources>

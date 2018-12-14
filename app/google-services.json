@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "564183685173",
+    "firebase_url": "https://project-5455420421710874733.firebaseio.com",
+    "project_id": "project-5455420421710874733",
+    "storage_bucket": "project-5455420421710874733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564183685173:android:e4b11dab058ea5a6",
+        "android_client_info": {
+          "package_name": "com.echessbee.hsb.paddleball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564183685173-2v5plo779cre1elvi3e49kqfdk91jm50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQtuSu0MkA-bK2o3ZPGsfBSVXJJLXbrQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564183685173:android:f6fe08dc87e1bc3d",
+        "android_client_info": {
+          "package_name": "com.echessbee.hsb.paddleball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564183685173-glq0cm8faq0ke41c7u80hq7fjvifopqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.echessbee.hsb.paddleball",
+            "certificate_hash": "feb98f48289cd0b3d5295998896565f4e27f74f3"
+          }
+        },
+        {
+          "client_id": "564183685173-2v5plo779cre1elvi3e49kqfdk91jm50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQtuSu0MkA-bK2o3ZPGsfBSVXJJLXbrQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564183685173-6c5k43d4ht6ih5nu75cijqde4pmglki8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brar.paddleball"
+              }
+            },
+            {
+              "client_id": "564183685173-2v5plo779cre1elvi3e49kqfdk91jm50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
